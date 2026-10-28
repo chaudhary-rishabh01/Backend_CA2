@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4"
+  },
+  "name": "backend_ca2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhary-rishabh01/Backend_CA2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chaudhary-rishabh01/Backend_CA2/issues"
+  },
+  "homepage": "https://github.com/chaudhary-rishabh01/Backend_CA2#readme"
+}
